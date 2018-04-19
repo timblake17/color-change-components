@@ -31,3 +31,15 @@
 .block-container{
   display: flex;
 }
+
+.block{
+  float: left;
+}
+
+.block-row{
+  width: 100%;
+}
+
+footer{
+  clear: both;
+}
